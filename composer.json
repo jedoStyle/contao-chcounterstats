@@ -1,0 +1,35 @@
+{
+	"name": "jedoStyle/contao-chcounterstats",
+	"description": "Contao Module to load and present the chCounter Stats on your contao site",
+	"keywords": ["chCounter","statistic","contao"],
+	"type":"contao-module",
+	"license": "LGPL-3.0+",
+	"authors": [
+        {
+            "name": "jedoStyle",
+            "email": "github@jedo-style.de",
+            "homepage": "http://jedo-style.de",
+            "role": "Developer"
+        }
+	],
+    	"support": {
+        	"email": "github@jedo-style.de",
+        	"issues": "https://github.com/jedoStyle/contao-chcounterstats/issues",
+        	"source": "https://github.com/jedoStyle/contao-chcounterstats"
+    	},	
+
+
+
+    "require": {
+        "php": ">=5.4",
+        "contao/core": ">=3.2,<3.5-dev",
+        "contao-community-alliance/composer-plugin": "~2.0"
+    },
+    "extra": {
+        "contao": {
+            "sources": {
+                "": "system/modules/jedo-chcounterstats"
+            }
+        }
+    }
+}
