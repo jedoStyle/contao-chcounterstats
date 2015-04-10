@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><xliff version="1.1">
+	<file datatype="php" original="system/modules/devtools/languages/en/modules.php" source-language="en">
+		<body>
+      	<trans-unit id="CHCOUNTER.chCounterError">
+			<source>chCounter Error</source>
+        	<target>chCounter Fehler</target>
+		</trans-unit>
+		<trans-unit id="CHCOUNTER.chCounterMSG">
+			<source>Could not find the chcounter installation. Please check your settings.</source>
+			<target>Konnte Ihre chCounter Installation nicht finden. Bitte überprüfen Sie Ihre chCounter-Pfad Einstellungen.</target>
+		</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?><xliff version="1.1">
+	<file datatype="php" original="system/modules/devtools/languages/en/modules.php" source-language="en">
+		<body>
+      	<trans-unit id="tl_module.chCounterpath_legend">
+			<source>Global Settings</source>
+			<target>Allgemeine Einstellungen</target>
+		</trans-unit>		
+      	<trans-unit id="tl_module.chCounter Path.0">
+			<source>chCounter installation path</source>
+			<target>chCounter Installations Pfad</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.chCounter Path.1">
+			<source>The path to your chCounter installation does this chCounter Stats modules.</source>
+			<target>Der Pfad zu Ihrer chCounter Installation NICHT zu diesem chCounterStats Module.</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Invisible.0">
+			<source>chCounter invisible mode</source>
+			<target>Unsichtbaren Modus</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Invisible.1">
+			<source>If this option is enabled, the module is not displayed, but the statistics are still running in the background.</source>
+			<target>Wenn diese Option aktiviert ist, wird das Module nicht angezeigt, das zählen der Statistiken läuft aber im Hintergrund weiter.</target>
+		</trans-unit>		
+      	<trans-unit id="tl_module.chCountersettings_legend">
+			<source>Selection of the displayed statistics</source>
+			<target>Auswahl der angezeigten Statistiken</target>
+		</trans-unit>			
+      	<trans-unit id="tl_module.Total Visitors.0">
+			<source>Visitors Total</source>
+			<target>Besucher Gesamt</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Total Visitors.1">
+			<source>View the number of visitors since chCounter start</source>
+			<target>Anzahl der Besucher seit chCounter start anzeigen</target>
+		</trans-unit>
+     	<trans-unit id="tl_module.Visitors today.0">
+			<source>Visitors Today</source>
+			<target>Besucher täglich</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Visitors today.1">
+			<source>Show the number of visitors today.</source>
+			<target>Anzahl der täglichen Besucher anzeigen.</target>
+		</trans-unit>
+     	<trans-unit id="tl_module.Visitors yesterday.0">
+			<source>Visitors Yesterday</source>
+			<target>Besucher am gestrigen Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Visitors yesterday.1">
+			<source>Show the number of visitors yesterday.</source>
+			<target>Anzahl der gestrigen Besucher anzeigen.</target>
+		</trans-unit>
+     	<trans-unit id="tl_module.Visitors per day.0">
+			<source>Visitors per day</source>
+			<target>Besucher pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Visitors per day.1">
+			<source>Show the number of visitors per day.</source>
+			<target>Anzahl der Besucher pro Tag anzeigen.</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Max visitors per day.0">
+			<source>Max. visitors per day</source>
+			<target>maximale Besucher pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max visitors per day.1">
+			<source>Show the number of visitors per day.</source>
+			<target>Anzahl der maximalen Besucher pro Tag anzeigen.</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Max visitors per day date.0">
+			<source>Max. visitors per day date</source>
+			<target>Datum der maximalen Besucher pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max visitors per day date.1">
+			<source>Show the date when the maximum visitors per day</source>
+			<target>Das Datum der maximalen Besucher pro Tag anzeigen</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Curently online.0">
+			<source>Curently online</source>
+			<target>Besucher gerade Online</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Curently online.1">
+			<source>Displays the number of visitors that are currently online</source>
+			<target>Anzeige der Anzahl von Besucher welche gerade online sind</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Max online.0">
+			<source>Max. online</source>
+			<target>Maximale Besucher Online</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max online.1">
+			<source>Show the Maximum Number of Visitors Online</source>
+			<target>Maximale Anzahl der Besucher anzeigen, die online sind</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Max online Date.0">
+			<source>Max. online date</source>
+			<target>Datum der Maximalen Besucher Online</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max online Date.1">
+			<source>Show Date maximum number of online visitors</source>
+			<target>Datum der maximale Anzahl gleichzeitig online Besucher anzeigen</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Total page views.0">
+			<source>Total page views</source>
+			<target>Seitenaufrufe gesamt</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Total page views.1">
+			<source>Show total number of page views</source>
+			<target>Gesammt Anzahl der Seitenaufrufe anzeigen</target>
+		</trans-unit>
+     	<trans-unit id="tl_module.Page views today.0">
+			<source>Page views today</source>
+			<target>Seitenaufrufe täglich</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views today.1">
+			<source>Show number of page views today</source>
+			<target>Anzahl der heutigen Seitenaufrufe anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Page views yesterday.0">
+			<source>Page views yesterday</source>
+			<target>Seitenaufrufe am gestrigen Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views yesterday.1">
+			<source>Show number of page views yesterday</source>
+			<target>Anzahl der heutigen Seitenaufrufe anzeigen</target>
+		</trans-unit>		
+     	<trans-unit id="tl_module.Page views per day.0">
+			<source>Page views per day</source>
+			<target>Seitenaufrufe pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views per day.1">
+			<source>View average page views per day</source>
+			<target>Durchschnittliche Seitenaufrufe pro Tag anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Max page views per day.0">
+			<source>Max. page views per day</source>
+			<target>Maximale Seitenaufrufe pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max page views per day.1">
+			<source>View maximum page views per day</source>
+			<target>Maximale Seitenaufrufe pro Tag anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Max page views per day date.0">
+			<source>Max. page views per day date</source>
+			<target>Datum der maximalen Seitenaufrufe pro Tag</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Max page views per day date.1">
+			<source>Display the date the maximum page views per day</source>
+			<target>Das Datum der maximalen Seitenaufrufe pro Tag anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Page views of current page.0">
+			<source>Page views of current page</source>
+			<target>Seitenaufrufe der aktuelle Seite</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views of current page.1">
+			<source>Show number of page views on the current page</source>
+			<target>Anzahl der Seitenaufrufe der aktuellen Seite anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Page views of current visitor.0">
+			<source>Page views of current visitor</source>
+			<target>Seitenaufrufe des aktuellen Besuchers</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views of current visitor.1">
+			<source>Show number of page views of your own visitor</source>
+			<target>Anzahl der eigene Seitenaufrufe des Besuchers anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Page views per visitor.0">
+			<source>Page views per visitor</source>
+			<target>Seitenaufrufe pro Besucher</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Page views per visitor.1">
+			<source>Show number of page views per visitor</source>
+			<target>Anzahl der Seitenaufrufe pro Besucher anzeigen</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Javascript activated.0">
+			<source>Javascript activated</source>
+			<target>Javascript aktiviert</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Javascript activated.1">
+			<source>Show was if Javascript is enabled</source>
+			<target>Anzeigen ob Javascript aktiviert wurde</target>
+		</trans-unit>	
+     	<trans-unit id="tl_module.Counterstart.0">
+			<source>Show start date of the acquisition</source>
+			<target>Start-Datum der Erfassung anzeigen</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Counterstart.1">
+			<source>Show date since when the chCounter counts</source>
+			<target>Datum seit wann der chCounter zählt anzeigen</target>
+		</trans-unit>			
+     	<trans-unit id="tl_module.Statistics.0">
+			<source>Statistics link</source>
+			<target>Link zu allen Statistiken</target>
+		</trans-unit>
+      	<trans-unit id="tl_module.Statistics.1">
+			<source>Add a link to the complete chCounter Statistics</source>
+			<target>Hinzufügen eines Links zur kompletten chCounter Statistik</target>
+		</trans-unit>		
+		</body>
+	</file>
+</xliff>
