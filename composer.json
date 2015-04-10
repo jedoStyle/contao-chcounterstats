@@ -4,6 +4,8 @@
 	"keywords": ["chCounter","statistic","contao"],
 	"type":"contao-module",
 	"license": "LGPL-3.0+",
+	"homepage": "http://jedo-style.de",
+    	"version": "2.1.0",
 	"authors": [
         {
             "name": "jedoStyle",
