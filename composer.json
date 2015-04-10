@@ -1,5 +1,5 @@
 {
-	"name": "jedoStyle/contao-chcounterstats",
+	"name": "jedostyle/contao-chcounterstats",
 	"description": "Contao Module to load and present the chCounter Stats on your contao site",
 	"keywords": ["chCounter","statistic","contao"],
 	"type":"contao-module",
