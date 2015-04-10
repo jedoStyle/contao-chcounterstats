@@ -17,8 +17,6 @@ if (TL_MODE == 'FE') {
  * -------------------------------------------------------------------------
  * FRONT END MODULES
  * -------------------------------------------------------------------------
- *
- * List all fontend modules and their class names.
  */
 
 // FrontEnd Module
